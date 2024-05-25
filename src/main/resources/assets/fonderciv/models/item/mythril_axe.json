@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "fonderciv:item/mythril_sword"
+    "layer0": "fonderciv:item/mythril_axe"
   }
 }

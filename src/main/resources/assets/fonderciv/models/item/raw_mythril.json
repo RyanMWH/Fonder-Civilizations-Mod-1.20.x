@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "fonderciv:item/mythril"
+    "layer0": "fonderciv:item/raw_mythril"
   }
 }

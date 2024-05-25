@@ -24,7 +24,7 @@
                   }
                 }
               ],
-              "name": "fonderciv:blocks/mythril_ore"
+              "name": "fonderciv:deepslate_mythril_ore"
             },
             {
               "type": "minecraft:item",
@@ -46,5 +46,5 @@
       "rolls": 1.0
     }
   ],
-  "random_sequence": "fonderciv:blocks/mythril_ore"
+  "random_sequence": "fonderciv:blocks/deepslate_mythril_ore"
 }

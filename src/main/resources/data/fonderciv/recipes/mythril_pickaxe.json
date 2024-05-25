@@ -6,7 +6,7 @@
       "item": "minecraft:stick"
     },
     "X": {
-      "item": "minecraft:diamond"
+      "item": "fonderciv:mythril"
     }
   },
   "pattern": [
@@ -15,7 +15,7 @@
     " # "
   ],
   "result": {
-    "item": "minecraft:diamond_pickaxe"
+    "item": "fonderciv:mythril_pickaxe"
   },
   "show_notification": true
 }

@@ -1,0 +1,20 @@
+{
+  "item.fonderciv.mythril" : "Mythril Ingot",
+  "item.fonderciv.raw_mythril" : "Raw Mythril",
+  "item.fonderciv.mythril_sword" : "Mythril Sword",
+  "item.fonderciv.mythril_pickaxe" : "Mythril Pickaxe",
+  "item.fonderciv.mythril_axe" : "Mythril Axe",
+  "item.fonderciv.mythril_shovel" : "Mythril Shovel",
+  "item.fonderciv.mythril_hoe" : "Mythril Hoe",
+  "item.fonderciv.elven_chest_key" : "Elven Key",
+
+
+
+  "block.fonderciv.mythril_block": "Mythril Block",
+  "block.fonderciv.mythril_ore": "Mythril Ore",
+  "block.fonderciv.deepslate_mythril_ore": "Deepslate Mythril Ore",
+
+  "block.fonderciv.elven_chest_block": "Elven Chest",
+
+  "creativetab.fonderciv_tab": "Fonder Civilizations"
+}

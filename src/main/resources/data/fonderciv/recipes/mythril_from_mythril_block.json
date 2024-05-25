@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "fonderciv:mythril_block"
+    }
+  ],
+  "result": {
+    "item": "fonderciv:mythril",
+    "count": 9
+  }
+}
